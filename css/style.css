@@ -1,0 +1,66 @@
+body{
+	background-color: #F5F5F5;
+}
+
+#cuadro{
+
+	background-color: #E6E6FA;
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 60px;
+	font-family: calibri;
+	text-align: center;
+
+}
+
+.titulo{
+	font-size: 65px;
+
+
+}
+
+.titulo span{
+	display: block;
+	font-size: 235px;
+	font-weight: bold;
+	line-height: 120px;
+
+}
+
+ul p{
+	
+	font-size: 25px;
+	margin-left: -50px;
+	line-height: 90px;
+	margin-bottom: -10px;
+
+
+}
+
+ul li{
+	color : #000000;
+	font-size: 60px;
+	text-align: left;
+	width: 300px;
+	margin: 0 auto;
+	line-height: 60px;
+}
+
+.datos{
+	color: #CD5C5C;
+	margin-top: 50px;
+
+}
+
+.email{
+	font-weight: bold;
+	color: #CD5C5C;
+	margin-top: -10px; 
+}
+
+.logo{
+	font-family: 'Orbitron', sans-serif;
+	padding-bottom: 20px;
+}
+
+
